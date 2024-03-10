@@ -131,7 +131,7 @@ else:
 
 ## Установка ядра
 
-- Установить ядро можно с помощью [kernel-installer.exe]()
+- Установить ядро можно с помощью [kernel-installer.exe](kernel-installer.exe)
 - Скачайте kernel-installer.exe
 - Скачайте ядро
 - Если у файла ядра другое название переименуйте его на kernel.py
